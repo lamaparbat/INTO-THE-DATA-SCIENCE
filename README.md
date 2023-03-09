@@ -37,4 +37,36 @@
     
     4. Sklearn
    ```
+   
+### ML Algorithm Practises
+
+  1. Supervised
+  
+     a). Linear Regression    
+     
+     b). Logistic Regression  
+     
+     c). Decision Trees
+     
+     d). Random Forests
+     
+     e). Support Vector Machines (SVMs)
+     
+     f). Naive Bayes
+     
+     g). Neural Networks
+  
+  
+  2. Unsupervised
+  
+     a). Clustering
+     
+     b). Dimensionality Reduction
+     
+     c). Anomaly Detection
+     
+     d). Association Rule Mining
+     
+     e). Generative Models
+    
   
