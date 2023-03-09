@@ -1,0 +1,17 @@
+Major usecase:
+
+- The major use case of linear regression is to predict a continuous numerical value based on a set of input variables or features. 
+  Linear regression is widely used in various fields such as economics, finance, physics, and social sciences for tasks such as:
+  
+  1. Sales forecasting: Linear regression can be used to forecast sales based on historical sales data and other relevant variables such as advertising expenditure, price, and seasonality.
+  
+  2. Investment analysis: Linear regression can be used to analyze the relationship between different investment variables such as stock prices, interest rates, and economic indicators.
+  
+  3. Risk management: Linear regression can be used to analyze the relationship between different risk factors and to predict the potential impact of these risk factors on business operations.
+  
+  4. Climate modeling: Linear regression can be used to model the relationship between different climate variables such as temperature, precipitation, and atmospheric pressure to predict future climate patterns.
+
+
+Major steps for implementing linear regression
+
+  1. 
